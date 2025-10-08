@@ -1,7 +1,5 @@
 # Portafolio de Desarrollo Web de Arely Zuleika ˚ʚ♡ɞ˚
 
------
-
 ### **Español / Spanish**
 
 ¡Hola\! Soy Arely Zuleika, y este es el repositorio central de mi portafolio. 
