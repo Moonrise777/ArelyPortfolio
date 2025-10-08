@@ -1,40 +1,5 @@
-# Portafolio de Desarrollo Web de Arely Zuleika ˚ʚ♡ɞ˚
+# Web Development Portfolio of Arely Zuleika ˚ʚ♡ɞ˚
 
-### **Español / Spanish**
-
-¡Hola\! Soy Arely Zuleika, y este es el repositorio central de mi portafolio. 
-He creado este espacio para compartir el código detrás de mis proyectos personales y colaboraciones, donde reflejo mi pasión por construir soluciones web interactivas y funcionales.
-
-#### **Sobre este Repositorio**
-
-Aquí encontrarás una colección de mi trabajo, desde aplicaciones completas hasta contribuciones en otras páginas. Mi enfoque principal es el desarrollo front-end, utilizando herramientas modernas para crear experiencias de usuario atractivas y eficientes.
-
-## ✨ Te invito a ver mi Portafolio ✨
-
-Te invito a visitar mi portafolio para que puedas interactuar con mis proyectos y verlos en acción.
-
-**➡️ [Visita mi portafolio aquí](https://moonrise777.github.io/ArelyPortfolio)**
-
-#### **🛠️ Tecnologías**
-
-Algunas de las tecnologías con las que trabajo y que encontrarás en estos proyectos son:
-
-  * **JavaScript**
-  * **React**
-  * **Vite**
-  * **Firebase (Authentication & Firestore)**
-  * **Tailwind CSS**
-  * **Sass**
-  * **Node.js**
-
-#### **📫 Contacto**
-
-Si tienes alguna pregunta, sugerencia o simplemente quieres hablar, no dudes en contactarme!
-
-  * **LinkedIn:** [linkedin.com/in/arely-zuleika](https://linkedin.com/in/arely-zuleika)
-  * **Correo:** [arelyzuleika@gmail.com](mailto:arelyzuleika@gmail.com)
-
------
 
 ### **English / Inglés**
 
@@ -69,3 +34,39 @@ If you have any questions, suggestions, or just want to talk, don't hesitate to 
 
 * **LinkedIn:** [linkedin.com/in/arely-zuleika](https://linkedin.com/in/arely-zuleika)
 * **Email:** [arelyzuleika@gmail.com](mailto:arelyzuleika@gmail.com)
+
+---
+
+### **Español / Spanish**
+
+¡Hola\! Soy Arely Zuleika, y este es el repositorio central de mi portafolio. 
+He creado este espacio para compartir el código detrás de mis proyectos personales y colaboraciones, donde reflejo mi pasión por construir soluciones web interactivas y funcionales.
+
+#### **Sobre este Repositorio**
+
+Aquí encontrarás una colección de mi trabajo, desde aplicaciones completas hasta contribuciones en otras páginas. Mi enfoque principal es el desarrollo front-end, utilizando herramientas modernas para crear experiencias de usuario atractivas y eficientes.
+
+## ✨ Te invito a ver mi Portafolio ✨
+
+Te invito a visitar mi portafolio para que puedas interactuar con mis proyectos y verlos en acción.
+
+**➡️ [Visita mi portafolio aquí](https://moonrise777.github.io/ArelyPortfolio)**
+
+#### **🛠️ Tecnologías**
+
+Algunas de las tecnologías con las que trabajo y que encontrarás en estos proyectos son:
+
+  * **JavaScript**
+  * **React**
+  * **Vite**
+  * **Firebase (Authentication & Firestore)**
+  * **Tailwind CSS**
+  * **Sass**
+  * **Node.js**
+
+#### **📫 Contacto**
+
+Si tienes alguna pregunta, sugerencia o simplemente quieres hablar, no dudes en contactarme!
+
+  * **LinkedIn:** [linkedin.com/in/arely-zuleika](https://linkedin.com/in/arely-zuleika)
+  * **Correo:** [arelyzuleika@gmail.com](mailto:arelyzuleika@gmail.com)
