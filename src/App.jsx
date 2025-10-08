@@ -5,10 +5,10 @@ export default function Portfolio() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 //  const [activeSection, setActiveSection] = useState('home');
 
-  const projects = [
+const projects = [
     {
       title: "Wordy",
-      description: "Un juego minimalista inspirado en Wordle, bilingüe (🇪🇸/🇺🇸), con palabras aleatorias ilimitadas y autenticación de usuarios.",
+      description: "A minimalist game inspired by Wordle, bilingual (🇪🇸/🇺🇸), with unlimited random words and user authentication.",
       tech: ["React", "Vite", "Firebase", "Tailwind CSS", "Sass"],
       image: "https://i.postimg.cc/PfKf4xNb/Wordy.png",
       github: "https://github.com/Moonrise777/Wordy",
@@ -16,15 +16,15 @@ export default function Portfolio() {
     },
     {
       title: "StayInn",
-      description: "Plataforma para la reservación de estancias, desarrollada como un proyecto académico.",
+      description: "A platform for booking stays, developed as an academic project.",
       tech: ["CSS", "TypeScript", "HTML", "JavaScript"],
       image: "https://i.postimg.cc/YqgpcdNX/StayInn.png",
-      github: "https://github.com/UnGuille/proyectofinal-angular  ",
+      github: "https://github.com/UnGuille/proyectofinal-angular",
       demo: "https://proyectofinal-angular.vercel.app/"
     },
     {
       title: "Quartz Obsidian",
-      description: "Un sistema para convertir y publicar automáticamente tus notas de Obsidian como un sitio web rápido y moderno, utilizando la plataforma Quartz.",
+      description: "A system to automatically convert and publish your Obsidian notes as a fast and modern website, using the Quartz platform.",
       tech: ["Obsidian", "Quartz", "JavaScript", "TypeScript", "Markdown", "HTML", "SCSS"],
       image: "https://i.postimg.cc/zv9vBJnd/Quartz.png",
       github: "https://github.com/Moonrise777/Quartz_Obsidian",
