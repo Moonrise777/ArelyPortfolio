@@ -69,7 +69,7 @@ export default function Portfolio() {
               href="#contact"
               className="hidden md:block bg-gradient-to-r from-purple-500 to-pink-500 px-6 py-2 rounded-full hover:shadow-lg hover:shadow-purple-500/50 transition transform hover:scale-105"
             >
-              Hire Me
+              Hire Me !
             </a>
 
             {/* Mobile Menu Button */}
