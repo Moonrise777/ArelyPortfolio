@@ -16,7 +16,7 @@ const projects = [
     },
     {
       title: "StayInn",
-      description: "A platform for booking stays, developed as an academic project.",
+      description: "A conceptual platform for booking stays, whose architecture is designed to serve as a template for similar projects.",
       tech: ["CSS", "TypeScript", "HTML", "JavaScript"],
       image: "https://i.postimg.cc/YqgpcdNX/StayInn.png",
       github: "https://github.com/UnGuille/proyectofinal-angular",
@@ -24,7 +24,7 @@ const projects = [
     },
     {
       title: "Quartz Obsidian",
-      description: "A system to automatically convert and publish your Obsidian notes as a fast and modern website, using the Quartz platform.",
+      description: "A system to automatically convert and publish my Obsidian notes as a fast and modern website, using the Quartz platform.",
       tech: ["Obsidian", "Quartz", "JavaScript", "TypeScript", "Markdown", "HTML", "SCSS"],
       image: "https://i.postimg.cc/zv9vBJnd/Quartz.png",
       github: "https://github.com/Moonrise777/Quartz_Obsidian",
