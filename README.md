@@ -1,16 +1,73 @@
-# React + Vite
+# Portafolio de Desarrollo Web de Arely Zuleika ˚ʚ♡ɞ˚
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+-----
 
-Currently, two official plugins are available:
+### **Español / Spanish**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+¡Hola\! Soy Arely Zuleika, y este es el repositorio central de mi portafolio. 
+He creado este espacio para compartir el código detrás de mis proyectos personales y colaboraciones, donde reflejo mi pasión por construir soluciones web interactivas y funcionales.
 
-## React Compiler
+#### **Sobre este Repositorio**
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Aquí encontrarás una colección de mi trabajo, desde aplicaciones completas hasta contribuciones en otras páginas. Mi enfoque principal es el desarrollo front-end, utilizando herramientas modernas para crear experiencias de usuario atractivas y eficientes.
 
-## Expanding the ESLint configuration
+## ✨ Te invito a ver mi Portafolio ✨
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Te invito a visitar mi portafolio para que puedas interactuar con mis proyectos y verlos en acción.
+
+**➡️ [Visita mi portafolio aquí](https://moonrise777.github.io/ArelyPortfolio)**
+
+#### **🛠️ Tecnologías**
+
+Algunas de las tecnologías con las que trabajo y que encontrarás en estos proyectos son:
+
+  * **JavaScript**
+  * **React**
+  * **Vite**
+  * **Firebase (Authentication & Firestore)**
+  * **Tailwind CSS**
+  * **Sass**
+  * **Node.js**
+
+#### **📫 Contacto**
+
+Si tienes alguna pregunta, sugerencia o simplemente quieres hablar, no dudes en contactarme!
+
+  * **LinkedIn:** [linkedin.com/in/arely-zuleika](https://linkedin.com/in/arely-zuleika)
+  * **Correo:** [arelyzuleika@gmail.com](mailto:arelyzuleika@gmail.com)
+
+-----
+
+### **English / Inglés**
+
+Hi there! I'm Arely Zuleika, and this is the central repository for my portfolio.
+I've created this space to share the code behind my personal and collaborative projects, where I reflect my passion for building interactive and functional web solutions.
+
+#### **About This Repository**
+
+Here you will find a collection of my work, from full applications to contributions on other pages. My main focus is front-end development, using modern tools to create engaging and efficient user experiences.
+
+## ✨ I invite you to see my Portfolio ✨
+
+I invite you to visit my portfolio so you can interact with my projects and see them in action.
+
+**➡️ [Visit my portfolio here](https://moonrise777.github.io/ArelyPortfolio)**
+
+#### **🛠️ Technologies**
+
+Some of the technologies I work with and that you will find in these projects are:
+
+* **JavaScript**
+* **React**
+* **Vite**
+* **Firebase (Authentication & Firestore)**
+* **Tailwind CSS**
+* **Sass**
+* **Node.js**
+
+#### **📫 Contact**
+
+If you have any questions, suggestions, or just want to talk, don't hesitate to contact me!
+
+* **LinkedIn:** [linkedin.com/in/arely-zuleika](https://linkedin.com/in/arely-zuleika)
+* **Email:** [arelyzuleika@gmail.com](mailto:arelyzuleika@gmail.com)
