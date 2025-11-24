@@ -10,7 +10,7 @@ const projects = [
       title: "Wordy",
       description: "A minimalist game inspired by Wordle, bilingual (🇪🇸/🇺🇸), with unlimited random words and user authentication.",
       tech: ["React", "Vite", "Firebase", "Tailwind CSS", "Sass"],
-      image: "https://i.postimg.cc/PfKf4xNb/Wordy.png",
+      image: "https://i.postimg.cc/Pr8WWxLp/Wordy.png",
       github: "https://github.com/Moonrise777/Wordy",
       demo: "https://moonrise777.github.io/Wordy/"
     },
