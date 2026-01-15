@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { Github, Linkedin, Mail, ExternalLink, Code, Palette, Sparkles, Download, Menu, X, Contact } from 'lucide-react';
+import { Github, Linkedin, Mail, ExternalLink, Code, Palette, Sparkles, Download, Menu, X, Contact, MonitorSmartphone, Paintbrush } from 'lucide-react';
 
 export default function Portfolio() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -193,8 +193,8 @@ const projects = [
                   <p className="text-gray-400">Projects</p>
                 </div>
                 <div className="bg-pink-500/20 p-4 rounded-lg flex-1 text-center border border-pink-500/30">
-                  <Palette className="w-8 h-8 mx-auto mb-2 text-pink-400" />
-                  <p className="font-bold text-2xl">100+</p>
+                  <Paintbrush className="w-8 h-8 mx-auto mb-2 text-pink-400" />
+                  <p className="font-bold text-2xl">Smooth & Cool</p>
                   <p className="text-gray-400">Designs</p>
                 </div>
               </div>
@@ -204,12 +204,14 @@ const projects = [
               <h3 className="text-2xl font-bold mb-6">What I Do</h3>
               <div className="space-y-4">
                 {[
-                  { icon: "🎨", title: "UI/UX Design", desc: "Creating beautiful and intuitive interfaces" },
-                  { icon: "⚡", title: "Web Development", desc: "Building fast and responsive websites" },
-                  { icon: "📱", title: "Responsive Design", desc: "Ensuring perfect experience on all devices" }
+                  { icon: Palette, title: "UI/UX Design", desc: "Creating beautiful and intuitive interfaces" },
+                  { icon: Code, title: "Web Development", desc: "Building fast and responsive websites" },
+                  { icon: MonitorSmartphone, title: "Responsive Design", desc: "Ensuring perfect experience on all devices" }
                 ].map((item, i) => (
                   <div key={i} className="flex gap-4">
-                    <span className="text-3xl">{item.icon}</span>
+                    <div className="p-2 bg-purple-400/10 rounded-lg">
+                      <item.icon className="w-6 h-9 text-purple-400" />
+                    </div>
                     <div>
                       <h4 className="font-bold text-lg">{item.title}</h4>
                       <p className="text-gray-400">{item.desc}</p>
@@ -218,6 +220,7 @@ const projects = [
                 ))}
               </div>
             </div>
+
           </div>
         </div>
       </section>
